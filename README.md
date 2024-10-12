@@ -21,6 +21,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RomanK2311&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=RomanK2311&icon=7&color=3)](https://visitcount.itsvg.in)
 
