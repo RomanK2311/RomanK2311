@@ -2,6 +2,7 @@
 <h3 align="center">I'm just a simple guy who loves Google and Xiaomi</h3>
 
 - 📫 How to reach me **kunshin.roman.2311@gmail.com**
+- ❤️ And there's my heart https://bandcamp.com/roman2311
 
 - ⚡ Fun fact **I love Android and programs and I also love Material You and Goa Trance**
 ## 🌐 Socials:
@@ -21,11 +22,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RomanK2311&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=RomanK2311&icon=0&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
