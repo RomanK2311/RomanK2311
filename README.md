@@ -2,10 +2,6 @@
 <h1 align="center">Hi there👋, I'm Roman Kunshin </h1>
 <h3 align="center">I love Android, Google, Xiaomi</h3>
 
-
-
-- 🔭 I fell in love with Android back in 2012 when I bought my first smartphone.
-
 - 🌱 I’m currently learning [https://flutter.dev/](url) [https://kotlinlang.org/](url)
 
 - 📫 How to reach me **kunshin.roman.2311@gmail.com**
