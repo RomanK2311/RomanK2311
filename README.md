@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Roman Kunshin</h1>
-<h3 align="center">I'm just a simple guy who loves Google and Xiaomi</h3>
-
-- 📫 How to reach me **kunshin.roman.2311@gmail.com**
-- ❤️ And there's my heart https://bandcamp.com/roman2311
-- ⚡ Fun fact **I love Android and programs and I also love Material You and Goa Trance**
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/0f008fdb) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kunshinroman) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RomanKunshin) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@romank2311) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RomanKunshin) 
 
@@ -22,8 +15,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=RomanK2311&icon=3&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
