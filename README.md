@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div align="center">I am Kunshin Roman was born in 1992 and I love Android and also music and technology my favorite companies and firms Xiaomi and Google I also like weather programs, music and notes.
 
