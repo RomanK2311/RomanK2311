@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Kunshin Roman was born in 1992 and I love Android and also music and technology my favorite companies and firms Xiaomi and Google I also like weather programs, music and notes.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Kunshin Roman was born in 1992 and I love Android and also music and technology my favorite companies and firms Xiaomi and Google I also like weather programs, music and notes.
 <img align="right" alt="GIF" src="https://github.com/sannimichaelse/sannimichaelse/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 
