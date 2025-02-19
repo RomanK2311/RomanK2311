@@ -18,8 +18,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔭 Here I look at the latest wallpapers
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/romank2311) 
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
