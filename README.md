@@ -18,4 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+### 📊📉 Analyze User Dashboard Stats
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=134511491" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=134511491&image_size=auto&color_scheme=light" width="770" height="auto" alt="Dashboard stats of @RomanK2311">
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
